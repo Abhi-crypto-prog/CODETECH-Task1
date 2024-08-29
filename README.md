@@ -45,6 +45,13 @@ print(): Used for displaying messages and results to the user.
 SUMMARY
 This project demonstrates the creation of a basic calculator using Python. The calculator performs fundamental arithmetic operations and handles user input and errors effectively, providing a solid foundation for understanding basic programming concepts and user interaction in Python.
 
+# OUTPUT
+
+![Screenshot 2024-08-30 023002](https://github.com/user-attachments/assets/262b0e96-b79e-4f0e-b99b-671055e79ef7)
+
+
+
+
 
 
 
